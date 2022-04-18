@@ -1,0 +1,88 @@
+<div class="row" >
+    <div class="col-sm-8" >
+        <span class="fontdefault" >Shipping Details</span><br/>
+        <hr/><br/>
+        <!--table-->
+        <table class="w100p" >
+            <tr>
+                <td>
+                    <span class="fontdefault">First Name</span><br/>
+                    <input type="text" class="form-control w90p" [(ngModel)]="firstName" />
+                </td>
+                <td>
+                    <span class="fontdefault">Last Name</span><br/>
+                    <input type="text" class="form-control w90p" [(ngModel)]="lastName" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" >
+                    <span class="fontdefault">Address</span><br/>
+                    <input type="text" class="form-control w95p" [(ngModel)]="address"  />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="fontdefault">State</span><br/>
+                    <input type="text" class="form-control w90p" [(ngModel)]="state"   />
+                </td>
+                <td>
+                    <span class="fontdefault">City</span><br/>
+                    <input type="text" class="form-control w90p"  [(ngModel)]="city"  />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="fontdefault">ZipCode</span><br/>
+                    <input type="text" class="form-control w90p" [(ngModel)]="zipcode" />
+                </td>
+                <td>
+                    <span class="fontdefault">Phone number (only numbers)</span><br/>
+                    <input type="text" class="form-control w90p" [(ngModel)]="phonenumber" id="phone" maxlength="10"  (keydown)="onKeyDownEvent($event)" />
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-sm-4" >
+        <span class="fontdefault" >Summary</span><br/>
+        <hr/><br/>
+        <table class="w100p">
+            <tr *ngFor="let item of summarize" >
+                <td class="w80p">
+                    <span class="fontdefault" >&nbsp;{{item.Name}}</span>
+                    <br/>
+                    <span class="fontdefault colorred">
+                        {{item.Detail}}
+                    </span>
+                </td>
+                <td class="vtop textright" >
+                    <span class="fontdefault" >&nbsp;${{item.Value}}</span>
+                </td>
+            </tr>
+        </table>
+        <hr class="w100p" />
+        <table class="w100p">
+            <tr >
+                <td class="w80p">
+                    <span class="fontdefault" >&nbsp;Total</span><br/>
+                </td>
+                <td class="textright ">
+                    <span class="fontdefault " >&nbsp;${{total}}</span>
+                </td>
+            </tr>
+        </table>
+        <!--table-->
+    </div>
+</div>
+<div class="row" >
+    <div class="col-sm-12" >
+        <hr class="w100p" />
+    </div>
+</div>
+<div class="row" >
+    <div class="col-sm-4" >
+        <input type="button" value="Next" class="btn btn-secondary w100p" (click)="saveShipping()" />
+    </div>
+    <div class="col-sm-4" >
+        <input type="button" value="Cancel" class="btn btn-secondary w100p" (click)="cancel()" />
+    </div>
+</div>

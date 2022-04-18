@@ -1,0 +1,61 @@
+﻿Scaffold-DbContext "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=B:\Klir\LeninAguiar_Klir_Project\Klir.TechChallenge.InfraStructure\Context\KlirEcommerceDatabase.mdf;Integrated Security=SSPI;Connect Timeout=30;"  Microsoft.EntityFrameworkCore.SqlServer -OutputDir ContextModel
+
+add-migration "Example_1" -c SQLDbContext
+
+update-database
+
+//protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    if (!optionsBuilder.IsConfigured)
+        //    {
+
+        //        optionsBuilder.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=B:\\Klir\\LeninAguiar_Klir_Project\\Klir.TechChallenge.InfraStructure\\Context\\KlirEcommerceDatabase.mdf;Integrated Security=SSPI;Connect Timeout=30;");
+        //    }
+        //}
+
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+        //    //modelBuilder.HasAnnotation("Relational:Collation", "SQL_Latin1_General_CP1_CI_AS");
+        //    modelBuilder
+        //            .Entity<Promotion>(builder =>
+        //            {
+        //                builder.HasNoKey();
+        //                builder.ToTable("Promotion");
+        //            });
+
+        //    modelBuilder
+        //           .Entity<Product>(builder =>
+        //           {
+        //               builder.HasNoKey();
+        //               builder.ToTable("Product");
+        //           });
+
+        //    modelBuilder
+        //           .Entity<ShoppingCart>(builder =>
+        //           {
+        //               builder.HasNoKey();
+        //               builder.ToTable("ShoppingCart");
+        //           });
+
+        //    OnModelCreatingPartial(modelBuilder);
+        //}
+
+        //partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+//{
+//    if (!optionsBuilder.IsConfigured)
+//    {
+
+//        optionsBuilder.UseSqlServer(Configuration.GetConnectionString["Main"]);
+//    }
+//}
+
+//protected override void OnModelCreating(ModelBuilder modelBuilder)
+//{
+//    modelBuilder.HasAnnotation("Relational:Collation", "SQL_Latin1_General_CP1_CI_AS");
+
+//    OnModelCreatingPartial(modelBuilder);
+//}
+
+//partial void OnModelCreatingPartial(ModelBuilder modelBuilder);

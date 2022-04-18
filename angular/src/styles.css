@@ -1,0 +1,127 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.maxheightcarrousel{
+  height: 400px !important;
+}
+
+.mainfeatureimage{
+  height: 100% !important;
+  width: 100% !important;
+  border-radius: 25px;
+}
+
+.mainfeature{
+  height: 303px !important;
+  border-style: solid !important;
+  border-width: thin;
+  border-radius: 25px;
+}
+
+.similarproducts{
+  height: 150px !important;
+  border-style: solid !important;
+  border-width: thin;
+  border-radius: 25px;
+}
+
+.productblock{
+  height: 200px !important;
+  border-style: solid !important;
+  border-width: thin;
+  border-radius: 25px;
+}
+
+.miniproductblock{
+  height: 100px !important;
+  border-style: solid !important;
+  border-width: thin;
+  border-radius: 25px;
+}
+
+.productnumber{
+  width: 50px;
+}
+
+.fontdefault{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.colorred{
+  color: red;
+}
+
+.vtop{
+  vertical-align: top;
+}
+
+.w100p{
+  width: 100%;
+}
+
+.w95p{
+  width: 95%;
+}
+
+.w90p{
+  width: 90%;
+}
+
+.w80p{
+  width: 80%;
+}
+
+.w50p{
+  width: 50%;
+}
+
+.w20p{
+  width: 20%;
+}
+
+.w50{
+  width: 50px !important;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.productItem.productImage {
+  width: 100% !important;
+  height: 300px !important;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.textright{
+  text-align: right;
+}
+
+.solid{
+  border-style: solid;
+}
+
+.mt5{
+  margin-top: 5px !important;
+}

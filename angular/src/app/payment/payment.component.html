@@ -1,0 +1,72 @@
+<div class="row" >
+    <div class="col-sm-8" >
+        <span class="fontdefault" >Payment method</span><br/>
+        <hr/><br/>
+        <!--table-->
+        <table class="w100p" >
+            <tr>
+                <td>
+                    <span class="fontdefault">Credit Card</span><br/>
+                    <input type="text" class="form-control w90p" [(ngModel)]="creditCard" (keydown)="onKeyDownEvent($event)" />
+                </td>
+                <td class="w20p">
+                    <span class="fontdefault">Expiration</span><br/>
+                    <input type="text" class="form-control w90p" [(ngModel)]="expiration" placeholder="MMYY" maxlength="4" (keydown)="onKeyDownEvent($event)" />
+                </td>
+                <td class="w20p">
+                    <span class="fontdefault">CVV</span><br/>
+                    <input type="text" class="form-control w90p" [(ngModel)]="cvv" maxlength="3"  (keydown)="onKeyDownEvent($event)" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" >
+                    <span class="fontdefault">Card Holder Name</span><br/>
+                    <input type="text" class="form-control w95p" [(ngModel)]="cardholdername"  />
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-sm-4" >
+        <span class="fontdefault" >Summary</span><br/>
+        <hr/><br/>
+        <table class="w100p">
+            <tr *ngFor="let item of summarize" >
+                <td class="w80p">
+                    <span class="fontdefault" >&nbsp;{{item.Name}}</span>
+                    <br/>
+                    <span class="fontdefault colorred">
+                        {{item.Detail}}
+                    </span>
+                </td>
+                <td class="vtop textright" >
+                    <span class="fontdefault" >&nbsp;${{item.Value}}</span>
+                </td>
+            </tr>
+        </table>
+        <hr class="w100p" />
+        <table class="w100p">
+            <tr >
+                <td class="w80p">
+                    <span class="fontdefault" >&nbsp;Total</span><br/>
+                </td>
+                <td class="textright ">
+                    <span class="fontdefault " >&nbsp;${{total}}</span>
+                </td>
+            </tr>
+        </table>
+        <!--table-->
+    </div>
+</div>
+<div class="row" >
+    <div class="col-sm-12" >
+        <hr class="w100p" />
+    </div>
+</div>
+<div class="row" >
+    <div class="col-sm-4" >
+        <input type="button" value="Pay Now" class="btn btn-secondary w100p" (click)="saveShipping()" />
+    </div>
+    <div class="col-sm-4" >
+        <input type="button" value="Cancel" class="btn btn-secondary w100p" (click)="cancel()" />
+    </div>
+</div>

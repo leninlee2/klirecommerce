@@ -1,0 +1,150 @@
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.exe
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.deps.json
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.runtimeconfig.json
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.runtimeconfig.dev.json
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.pdb
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.csprojAssemblyReference.cache
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.AssemblyInfoInputs.cache
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.AssemblyInfo.cs
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\staticwebassets\Klir.TechChallenge.Web.Api.StaticWebAssets.Manifest.cache
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\staticwebassets\Klir.TechChallenge.Web.Api.StaticWebAssets.xml
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Klir.TechChallenge.Web.Api.styles.css
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.RazorTargetAssemblyInfo.cache
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.pdb
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.genruntimeconfig.cache
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.csproj.CopyComplete
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+B:\Klir\Origin\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.dll
+B:\Klir\Origin\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.pdb
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.pdb
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\appsettings.json
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.exe
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.deps.json
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.runtimeconfig.json
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.runtimeconfig.dev.json
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.pdb
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.csprojAssemblyReference.cache
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.AssemblyInfoInputs.cache
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.AssemblyInfo.cs
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.csproj.CoreCompileInputs.cache
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.MvcApplicationPartsAssemblyInfo.cache
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\staticwebassets\Klir.TechChallenge.Web.Api.StaticWebAssets.Manifest.cache
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\staticwebassets\Klir.TechChallenge.Web.Api.StaticWebAssets.xml
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Klir.TechChallenge.Web.Api.styles.css
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.RazorTargetAssemblyInfo.cache
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.csproj.CopyComplete
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.genruntimeconfig.cache
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.MvcApplicationPartsAssemblyInfo.cs
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.pdb
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.InfraStructure.dll
+B:\Klir\LeninAguiar_Klir_Project\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.InfraStructure.pdb

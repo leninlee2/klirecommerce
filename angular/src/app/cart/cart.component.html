@@ -1,0 +1,74 @@
+<div class="row" >
+    <div class="col-sm-8" >
+        <span class="fontdefault" >Shopping Cart</span><br/>
+        <hr/><br/>
+        <!--table-->
+        <table>
+            <tr  *ngFor="let cart of shoppingCarts" >
+                <td>
+                    <img src="assets/images/rose-wine.jpeg" class="miniproductblock" />
+                </td>
+                <td class="w80p">
+                    <span class="fontdefault" >&nbsp;{{cart.product.name}}</span>
+                    <span class="fontdefault colorred pointer" (click)="removeItem(cart.shoppingCart.id)" >&nbsp;(Remove) 
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                            <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+                        </svg>
+                    </span>
+                    <br/>
+                    <span class="fontdefault" >&nbsp;${{cart.product.price}}</span>
+                    <br/>
+                    <div  >
+                        Available Promotion:&nbsp;{{cart.promotion.name}}
+                    </div>
+                </td>
+                <td>
+                    <input type="number" class="productnumber form-control" value="{{cart.shoppingCart.quantity}}" min="1" (keydown)="onKeyDownEvent($event)" (change)="onChange($event,cart.shoppingCart.id)" />
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-sm-4" >
+        <span class="fontdefault" >Summary</span><br/>
+        <hr/><br/>
+        <table class="w100p">
+            <tr *ngFor="let item of summarize" >
+                <td class="w80p">
+                    <span class="fontdefault" >&nbsp;{{item.Name}}</span>
+                    <br/>
+                    <span class="fontdefault colorred">
+                        {{item.Detail}}
+                    </span>
+                </td>
+                <td class="vtop textright" >
+                    <span class="fontdefault" >&nbsp;${{item.Value}}</span>
+                </td>
+            </tr>
+        </table>
+        <hr class="w100p" />
+        <table class="w100p">
+            <tr >
+                <td class="w80p">
+                    <span class="fontdefault" >&nbsp;Total</span><br/>
+                </td>
+                <td class="textright ">
+                    <span class="fontdefault " >&nbsp;${{total}}</span>
+                </td>
+            </tr>
+        </table>
+        <!--table-->
+    </div>
+</div>
+<div class="row" >
+    <div class="col-sm-12" >
+        <hr class="w100p" />
+    </div>
+</div>
+<div class="row" >
+    <div class="col-sm-4" >
+        <input type="button" value="Next" class="btn btn-secondary w100p" (click)="redirectShipping()" />
+    </div>
+    <div class="col-sm-4" >
+        <input type="button" value="Cancel" class="btn btn-secondary w100p" (click)="cancel()" />
+    </div>
+</div>

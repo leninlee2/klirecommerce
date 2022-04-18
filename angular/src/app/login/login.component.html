@@ -1,0 +1,22 @@
+<div class="row" >
+    <div class="col-sm-12" >
+        <h3 class="fontdefault">Please insert existing or new e-mail and password</h3>
+    </div>
+</div>
+<div class="row mt5" >
+    <div class="col-sm-4" >
+        <span class="fontdefault">E-mail</span><br/>
+        <input type="text" class="form-control" id="email" name="email" [(ngModel)]="name" />
+    </div>
+</div>
+<div class="row mt5" >
+    <div class="col-sm-4" >
+        <span class="fontdefault">Password</span><br/>
+        <input type="password" class="form-control"  id="password" name="password" [(ngModel)]="password" />
+    </div>
+</div>
+<div class="row mt5 " >
+    <div class="col-sm-4 " >
+        <input type="button" class="btn btn-secondary right" value="Enter" (click)="authenticate()" />
+    </div>
+</div>

@@ -40,6 +40,7 @@ export class PaymentComponent {
       "7",
       "8",
       "9",
+      "Tab"
     ];
   
     constructor(http: HttpClient, @Inject('BASE_API_URL') baseUrl: string, route: ActivatedRoute,

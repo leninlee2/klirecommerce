@@ -17,4 +17,5 @@ export class HomeComponent {
 interface ProductFeature {
   Id: string;
   Name: string;
+  Url:string;
 }

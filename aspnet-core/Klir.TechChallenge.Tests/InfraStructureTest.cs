@@ -306,6 +306,30 @@ namespace Klir.TechChallenge.Tests
 
         #endregion
 
+        #region Add url to Product
+
+        [Fact]
+        public async Task UpdateProductUrlAsync()
+        {
+            var products = productRepository.findProductById(new Guid("12D4B353-CBFE-4B8D-B68B-1D9FDC9503E1"));
+            products.AlterDate = DateTime.Now;
+            products.Url = "assets/images/wine.jpg";
+            await productRepository.UpdateProduct(products);
+
+            products = productRepository.findProductById(new Guid("D0D8FB8D-5D4C-43F8-8170-B7A2E3B9883D"));
+            products.AlterDate = DateTime.Now;
+            products.Url = "assets/images/rose-wine.jpeg";
+            await productRepository.UpdateProduct(products);
+
+            products = productRepository.findProductById(new Guid("5F5D363F-F2E8-432D-B4A4-E15113103339"));
+            products.AlterDate = DateTime.Now;
+            products.Url = "assets/images/white_wine.jpg";
+            await productRepository.UpdateProduct(products);
+            Assert.True(products != null);
+        }
+
+        #endregion
+
         public InfraStructureTest()
         {
             

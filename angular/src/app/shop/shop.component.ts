@@ -22,4 +22,5 @@ export class ShopComponent {
 interface Product {
   Id: string;
   Name: string;
+  Url:string;
 }

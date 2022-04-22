@@ -46,7 +46,7 @@
 <div class="row"  >
   <div class="col-sm-4 text-center pointer" *ngFor="let feature of productfeatures" >
     <div class="mainfeature" [routerLink]="['productitem',feature.id]" >
-      <img class="mainfeatureimage" src="assets/images/wine.jpg" alt="First slide">
+      <img class="mainfeatureimage" src="{{feature.url}}" alt="First slide">
     </div>
     <span class=" fw-bold mb-4 fontdefault" [routerLink]="['productitem',feature.id]" >{{ feature.name }}</span>
   </div>

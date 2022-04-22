@@ -22,6 +22,8 @@ namespace Klir.TechChallenge.Domain.EntityModel
 
         public DateTime AlterDate { get; set; }
 
+        public string Url { get; set; }
+
 
     }
 

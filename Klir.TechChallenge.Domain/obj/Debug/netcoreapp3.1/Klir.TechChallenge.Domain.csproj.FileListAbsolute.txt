@@ -6,3 +6,12 @@ B:\Klir\LeninAguiar_Klir_Project\Klir.TechChallenge.Domain\obj\Debug\netcoreapp3
 B:\Klir\LeninAguiar_Klir_Project\Klir.TechChallenge.Domain\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.csproj.CoreCompileInputs.cache
 B:\Klir\LeninAguiar_Klir_Project\Klir.TechChallenge.Domain\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.dll
 B:\Klir\LeninAguiar_Klir_Project\Klir.TechChallenge.Domain\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.pdb
+B:\Klir\KlitGit\Klir.TechChallenge.Domain\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.deps.json
+B:\Klir\KlitGit\Klir.TechChallenge.Domain\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.dll
+B:\Klir\KlitGit\Klir.TechChallenge.Domain\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.pdb
+B:\Klir\KlitGit\Klir.TechChallenge.Domain\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.csprojAssemblyReference.cache
+B:\Klir\KlitGit\Klir.TechChallenge.Domain\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.AssemblyInfoInputs.cache
+B:\Klir\KlitGit\Klir.TechChallenge.Domain\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.AssemblyInfo.cs
+B:\Klir\KlitGit\Klir.TechChallenge.Domain\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.csproj.CoreCompileInputs.cache
+B:\Klir\KlitGit\Klir.TechChallenge.Domain\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.dll
+B:\Klir\KlitGit\Klir.TechChallenge.Domain\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.pdb
